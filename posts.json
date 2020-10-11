@@ -1,4 +1,5 @@
-"posts":[
+{
+        "posts":[
         {
             "header": {
                 "username": "Colin Moynihan",
@@ -44,3 +45,4 @@
             "id": 3
         }
     ]
+}
